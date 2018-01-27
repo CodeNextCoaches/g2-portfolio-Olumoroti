@@ -1,0 +1,35 @@
+html{
+	box-sizing: border-box;
+
+}
+
+*,*:before, *:after{
+	box-sizing: inherit;
+}
+
+nav ul{
+	list-style: none;
+ 
+}
+
+nav ul li{
+	display: inline;
+	border: 1px solid grey;
+	padding: 10px;
+}
+
+span{
+	float: center;
+}
+
+.icon{
+	width: 30px;
+}
+
+p{
+
+	background-color: #FFD700;
+	margin: 100;
+	max-width: 800px;
+}
+
